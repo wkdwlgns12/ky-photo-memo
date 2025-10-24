@@ -19,7 +19,7 @@ body,
   height: 100%;
 }
 body {
-  background: var(--bg);
+  background: var(--surface);
   color: var(--text);
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
@@ -90,7 +90,6 @@ ul {list-style-type: none;}
   --radius-s: 0.5rem;
   --focus: #5b9fff;
 }
-
 
 /* 포커스 */
 :focus-visible {
